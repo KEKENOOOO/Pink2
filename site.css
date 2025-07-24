@@ -1,0 +1,128 @@
+body {
+    font-family: "Inter";
+    font-weight: 700;
+    font-size: 48px;
+    text-align: center;
+    background: linear-gradient(90deg, #ffffff 0%, #ffdde9 100%);
+    margin: 0;
+    height: 100vh;
+    /* tam ekran yüksekliği */
+    display: flex;
+    justify-content: center;
+    /* yatay ortala */
+    align-items: center;
+     cursor: url(Glossy\ Pink\ Question\ Mark\ &\ Pointer--cursor--SweezyCursors\ \(1\).png),auto;
+     transform: scale(0.9);
+     
+}
+
+.gradient {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    align-items: center;
+    background: linear-gradient(90deg, #8B5CF6 0%,#F472B6 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent
+    
+}
+
+.gradient2 {
+
+    background: linear-gradient(90deg, #F472B6 0%, #8B5CF6 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.dik1{
+width: 400px;
+height: 100px;
+background: linear-gradient(180deg,#FFFFFF 0%,#ffb6c1 100%);
+border-radius: 100px;
+display: flex;
+justify-content: center;
+align-items: center;
+z-index: 0;
+margin: 0 auto;
+}
+#enes{
+  font-size: 60px;
+  background: linear-gradient(90deg, #8B5CF6 0%, #F472B6 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 700;
+margin: 0;
+}
+.dik2{
+   width: 700px;
+height: 100px;
+background: linear-gradient(180deg,#FFFFFF 0%,#ffb6c1 100%);
+border-radius: 100px;
+display: flex;
+justify-content: center;
+align-items: center;
+z-index: 0;
+margin: 0 auto; 
+}
+.dik3{
+       width: 850px;
+height: 100px;
+background: linear-gradient(180deg,#FFFFFF 0%,#ffb6c1 100%);
+border-radius: 100px;
+display: flex;
+justify-content: center;
+align-items: center;
+z-index: 0;
+margin: 0 auto; 
+}
+#orta{
+ font-size: 48px;
+  background: linear-gradient(90deg, #8B5CF6 0%, #F472B6 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 700;
+margin: 0;
+}
+.dik4{
+           width: 700px;
+height: 100px;
+background: linear-gradient(180deg,#FFFFFF 0%,#ffb6c1 100%);
+border-radius: 100px;
+display: flex;
+justify-content: center;
+align-items: center;
+z-index: 0;
+margin: 0 auto; 
+gap: 20px;
+}
+.dik5{
+width: 400px;
+height: 100px;
+background: linear-gradient(180deg,#FFFFFF 0%,#ffb6c1 100%);
+border-radius: 100px;
+display: flex;
+justify-content: center;
+align-items: center;
+z-index: 0;
+margin: 0 auto;
+}
+#youtube{
+      font-size: 60px;
+  background: linear-gradient(90deg, #8B5CF6 0%, #F472B6 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 700;
+margin: 0;
+}
+img{
+    width: 60px;
+    width: 60px;
+}
+.dik4,.dik5{
+    cursor: url(Glossy\ Pink\ Question\ Mark\ &\ Pointer--pointer--SweezyCursors\ \(1\).png),auto;
+}
+.dik1,.dik2,.dik3,.dik4,.dik5{
+    user-select: none;
+}
+.dik4 p{
+    font-size: 64px;
+}
